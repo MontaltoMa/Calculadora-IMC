@@ -1,2 +1,2 @@
 # Calculadora-IMC
- Calculadora de IMC
+ Projeto simples para treinar de uma calculadora em Python para calcura o IMC
